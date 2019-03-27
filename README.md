@@ -1,9 +1,14 @@
 # Solarized Dark profile for Terminal.app on macOS High Sierra
 
-Based on the excellent [Solarized](http://ethanschoonover.com/solarized) (Dark) created by [Ethan Schoonover](http://ethanschoonover.com/). For source code, check the main Solarized [repository](https://github.com/altercation/solarized/) on GitHub.
+Based on the excellent [Solarized](http://ethanschoonover.com/solarized) (Dark)
+created by [Ethan Schoonover](http://ethanschoonover.com/). For source code,
+check the main Solarized
+[repository](https://github.com/altercation/solarized/) on GitHub.
 
 ## Installation
 
-Open and save [Solarized Dark.terminal](https://gist.github.com/matijs/808eda8c133d41f9338f89a0077d6b95/raw/fa38d3789a19985440afd0d571b227f7f1818643/Solarized%2520Dark.terminal).
+Open and save
+[SolarizedDark.terminal](./SolarizedDark.terminal).
 
-Import from the “Profiles” tab in the settings of Terminal.app or just double-click the file after downloading.
+Import from the “Profiles” tab in the settings of Terminal.app or just
+double-click the file after downloading.
